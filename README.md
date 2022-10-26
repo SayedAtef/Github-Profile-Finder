@@ -1,17 +1,29 @@
+# Github Finder
 
-# Github-Profile-Finder
+###### Simple app to find github profiles, built with React.
 
-This is a simple project to search Github  profiles, and display them with repos through working with the github api
+### Introduction
 
+This is a simple application to find github profiles using the github API, this showcases how to interact with different apis such as github and fetch data to the application efficiently using best practices and handling global state working with context api.
 
-## To use the code on your local machine
+### Technologies used:
 
-- Download Repo
-- npm install
-- npm start
+- JavaScript
+- CSS
+- React
+- create-react-app
 
-## Appendix
+## Setup
 
-This project was made for learning purposes to showcase the ability to work with react global context and reducers. As well as interactiong with the github API.
+To run this project, clone or download repo
+install it locally using npm:
 
-### this project was made from React Back To Back course on Udemy
+```
+$ cd ../Support-Desk-
+$ npm install
+$ npm start
+```
+
+## Sources
+
+This app is part of React Back to Back course on Udemy by brad traversy.
